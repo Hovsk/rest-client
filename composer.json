@@ -1,0 +1,11 @@
+{
+    "name": "brother/debit-cards-api",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "src/"
+        }
+    },
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    }
+}
